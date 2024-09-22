@@ -1,13 +1,3 @@
-# music-website
+#唱响中国红歌网
 
-🎵 音乐网站(HTML + CSS + jQuery)
-
-[Live Demo](http://music.demo.hapboy.com)
-
-## Preview
-
-![](./preview.png)
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT)
+本网站专注红色内容，致力于欣赏红色歌曲和学习红色精神
